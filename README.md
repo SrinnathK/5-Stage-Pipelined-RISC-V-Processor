@@ -35,4 +35,5 @@ sim/    Simulation files
 
 ## Author
 
-Akash Mishra
+Srinnath Krishnan
+
