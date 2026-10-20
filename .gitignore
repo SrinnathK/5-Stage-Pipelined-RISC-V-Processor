@@ -1,0 +1,14 @@
+# Simulator generated files
+work/
+src/work/
+*.wlf
+*.vcd
+transcript
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
